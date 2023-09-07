@@ -5,4 +5,3 @@ soban
 ahmad
 nazia
 shoaib
-ok
